@@ -1,4 +1,4 @@
-# App_produit – Gestion de produits (Test technique Canadel)
+# App_produit – Gestion de produits (Test technique )
 
 Ce projet est une API RESTful développée avec **ASP.NET Core Web API** permettant la gestion d’un catalogue de produits. Il a été réalisé dans le cadre d'un test technique pour un poste de developeur fullstack.
 
